@@ -1,1 +1,7 @@
 food-101-images/*
+model_checkpoints/*
+models/*
+test_photos/*
+app/uploads/*
+app/label_classes.npy
+app/final_model.keras
